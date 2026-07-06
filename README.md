@@ -1,6 +1,6 @@
 # Real-Time Chat Application Backend
 
-A production-grade real-time chat backend built with Go, WebSockets, Redis, and MySQL..
+A production-grade real-time chat backend built with Go, WebSockets, Redis, and MySQL.
 
 ## Features
 
